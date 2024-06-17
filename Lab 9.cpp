@@ -1,7 +1,5 @@
 //William McAllister
-//Lab 9
 //Tic-Tac-Toe
-//CSE 130-01A
 //March 29, 2024
 
 #include <iostream>
