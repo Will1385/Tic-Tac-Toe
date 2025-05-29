@@ -1,6 +1,7 @@
 //William McAllister
 //Tic-Tac-Toe
 //March 29, 2024
+//Have fun and try to win
 
 #include <iostream>
 #include <string>
